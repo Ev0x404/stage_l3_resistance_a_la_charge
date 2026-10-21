@@ -1,0 +1,1 @@
+# stage_l3_resistance_a_la_charge
