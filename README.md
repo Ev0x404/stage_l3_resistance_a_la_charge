@@ -18,7 +18,7 @@ Avant toute choses, une fois le projet ouvert dans VsCode, assurez vous de crée
 
 >3) Une fois l'intallation terminée, vous pouvez lancer votre raspberry. (Assurez vous de l'avoir connecté en ethernet (nous v'avons pas mis le wifi dans notre configuration)). Entrer le login et le mot de passe (cf ci-dessus)
 
->4) Récupérer l'adresse ip de votre raspberry et changer l'ip dans le script bash. Lancer à présent le scrit shell de setup **"setup_raspberry.sh"** depuis votre machine hôte fin que le raspberry se configure automatiquement. Entrez **"yes"** à la question **"Are you sure you wnt to continue connecting"** et entrez ensuite le mot de passe (le même que pour le compte : **1234**). L'installation va se faire, attendez la fin d'exécution
+>4) Récupérer l'adresse ip de votre raspberry et changer l'ip dans le script bash. Lancer à présent le scrit shell de setup **"setup_raspberry.sh"** depuis votre machine hôte fin que le raspberry se configure automatiquement. Entrez **"yes"** à la question **"Are you sure you want to continue connecting"** et entrez ensuite le mot de passe (le même que pour le compte : **1234**). L'installation va se faire, attendez la fin d'exécution
 
 >6) Vous pouvez lancer vos tests tout est prêt ! (Pensez à changer l'ip du raspberry dans les tests si jamais elle est différente de celle mise par défaut)
 
